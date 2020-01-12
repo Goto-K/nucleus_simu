@@ -1,0 +1,11 @@
+  **** ruthscat control data ****
+  10:unknown ::./cspw.dat
+  06:unknown ::./scatpw.outlist
+ 999:
+---- INPUT ----
+PW calculation of n-12C at 65 MeV                 COMMENT
+12.0      65.0                                    AT ELAB
+3.8       268.0                                   R0 V0B
+---- OUTPUT ----
+10.0      0.0       50.0      0.1                 KIBO THMIN THMAX DTH
+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+

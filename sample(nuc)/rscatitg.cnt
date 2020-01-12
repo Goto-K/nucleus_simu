@@ -1,0 +1,11 @@
+  **** ruthscat control data ****
+  10:unknown ::./rscatitg.dat
+  06:unknown ::./rscatitg.outlist
+ 999:
+---- INPUT ----
+Screened Coulomb scatt. of 4He-186W at 24.0 MeV   COMMENT
+2.0       74.0      24.0      4.0                 Z1 Z2 T AM1
+5.0       50.0      0.1                           RSCR RMAX DR
+---- OUTPUT ----
+10.0      0.0       180.0     1.0                 KIBO THMIN THMAX DTH
+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+

@@ -1,0 +1,10 @@
+  **** ruthscat control data ****
+  10:unknown ::./rscat.dat
+  06:unknown ::./rscat.outlist
+ 999:
+---- INPUT ----
+Rutherford scattering of 4He on 186W at 24.0 MeV  COMMENT
+2.0       74.0      24.0                          Z1 Z2 T
+---- OUTPUT ----
+10.0      0.0       180.0     1.0                 KIBO THMIN THMAX DTH
+----+----+----+----+----+----+----+----+----+----+----+----+----+----+----+
